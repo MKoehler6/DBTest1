@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DBTest</string>
+    <string name="wrong">Falsche Eingabe</string>
+</resources>
